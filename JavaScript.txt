@@ -1,0 +1,29 @@
+JavaScript
+
+Variables
+
+Modern Way
+const -- to declare variable for constant
+let  -- need to reassign.
+
+
+var- legacy code (old way)
+
+Note - 
+Prefer not to use var because of issue in block scope and functional scope
+
+
+Data Types in ECMA standards
+
+primitive Data type
+  number >> 2 power 53
+  bigInt
+  String - ""
+  boolean -- false /true
+  null -- standalone values (Object)
+  undefined -- value not assigned
+  symbol -- unique
+
+
+
+
